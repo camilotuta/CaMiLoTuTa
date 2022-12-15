@@ -21,13 +21,9 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/camilo tuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo tuta" height="30" width="40" /></a>
-
 <a href="https://fb.com/camilo tuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="camilo tuta" height="30" width="40" /></a>
-
 <a href="https://instagram.com/cam._25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cam._25" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/c/camilo tuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="camilo tuta" height="30" width="40" /></a>
-
 <a href="https://discord.gg/Tuta®#9384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tuta®#9384" height="30" width="40" /></a>
 </p>
 <br>
@@ -42,4 +38,3 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilotuta&" alt="camilotuta" /></p>
-
