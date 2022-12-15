@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/camilo tuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo tuta" height="30" width="40" /></a>
 <a href="https://fb.com/camilo tuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="camilo tuta" height="30" width="40" /></a>
 <a href="https://instagram.com/cam._25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cam._25" height="30" width="40" /></a>
@@ -33,9 +32,7 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilotuta&show_icons=true&locale=en&layout=compact" alt="camilotuta" /></p>
-<br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camilotuta&show_icons=true&locale=en" alt="camilotuta" /></p>
-<br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilotuta&" alt="camilotuta" /></p>
