@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Adrián Camilo Tuta Cortés</h1>
 <h3 align="center">A passionate developer from Colombia.</h3>
 
@@ -16,7 +17,6 @@
   /></a>
 </p>
 
-<br>
 - 🔭 I’m currently working on **own projects.**
 - 🌱 I’m currently learning **React, Spring, Flask.** 
 - 👯 I’m looking to collaborate in **the world of web development and desktop applications.** 
@@ -24,7 +24,6 @@
 - 💬 Ask me about **Python, Java and JavaScript.** 
 - 📫 How to reach me **camilotuta2004@gmail.com**
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/camilo tuta" target="blank"
@@ -69,7 +68,6 @@
   /></a>
 </p>
 
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -200,12 +198,12 @@
 
 <br>
 <p align="center">
-  <img
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=camilotuta&show_icons=true&locale=en&layout=compact"
     alt="camilotuta"
     width="400"
   />
-  <img
+  <img 
     src="https://github-readme-stats.vercel.app/api?username=camilotuta&show_icons=true&locale=en"
     alt="camilotuta"
     width="480"
@@ -218,7 +216,3 @@
     width="500"
   />
 </p>
-
-
-
-
