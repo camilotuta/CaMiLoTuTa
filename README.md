@@ -213,6 +213,6 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=camilotuta&"
     alt="camilotuta"
-    width="500"
+    width="470"
   />
 </p>
