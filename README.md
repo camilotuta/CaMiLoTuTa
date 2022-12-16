@@ -201,12 +201,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=camilotuta&show_icons=true&locale=en&layout=compact"
     alt="camilotuta"
-    width="400"
+    width="380"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api?username=camilotuta&show_icons=true&locale=en"
     alt="camilotuta"
-    width="480"
+    width="460"
   />
 </p>
 <p align="center">
