@@ -16,12 +16,15 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **own projects.** - 🌱 I’m currently learning
-**React, Spring, Flask.** - 👯 I’m looking to collaborate in **the world of web
-development and desktop applications.** - 🤝 I’m looking for help with **my
-experience in the world of work.** - 💬 Ask me about **Python, Java and
-JavaScript.** - 📫 How to reach me **camilotuta2004@gmail.com**
+<br>
+- 🔭 I’m currently working on **own projects.**
+- 🌱 I’m currently learning **React, Spring, Flask.** 
+- 👯 I’m looking to collaborate in **the world of web development and desktop applications.** 
+- 🤝 I’m looking for help with **my experience in the world of work.** 
+- 💬 Ask me about **Python, Java and JavaScript.** 
+- 📫 How to reach me **camilotuta2004@gmail.com**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/camilo tuta" target="blank"
@@ -65,6 +68,8 @@ JavaScript.** - 📫 How to reach me **camilotuta2004@gmail.com**
       width="40"
   /></a>
 </p>
+
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -193,18 +198,27 @@ JavaScript.** - 📫 How to reach me **camilotuta2004@gmail.com**
   </a>
 </p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=camilotuta&show_icons=true&locale=en&layout=compact"
-  alt="camilotuta"
-  width="100"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=camilotuta&show_icons=true&locale=en"
-  alt="camilotuta"
-  width="100"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=camilotuta&"
-  alt="camilotuta"
-  width="100"
-/>
+<br>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=camilotuta&show_icons=true&locale=en&layout=compact"
+    alt="camilotuta"
+    width="400"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=camilotuta&show_icons=true&locale=en"
+    alt="camilotuta"
+    width="480"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=camilotuta&"
+    alt="camilotuta"
+    width="500"
+  />
+</p>
+
+
+
+
