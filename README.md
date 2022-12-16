@@ -179,7 +179,7 @@ These are some statistics from my github account.
 </p>
 <hr/>
 <h3 align="left">💻 Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/camilo tuta" target="blank"
     ><img
       align="center"
