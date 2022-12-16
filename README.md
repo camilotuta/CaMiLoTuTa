@@ -156,8 +156,8 @@
 <hr/>
 <h3>🧾 Github Statistics</h1>
 
-These are some statistics from my github account.
-<br>
+<p align="center" >These are some statistics from my github account.</p>
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=camilotuta&show_icons=true&locale=en&layout=compact"
