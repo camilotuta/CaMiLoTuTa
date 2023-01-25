@@ -167,7 +167,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=camilotuta&show_icons=true&locale=en"
     alt="camilotuta"
-    width="435"
+    width="428"
   />
 </p>
 <p align="center">
